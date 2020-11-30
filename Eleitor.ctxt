@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Eleitor
+comment1.params=cpf\ nome
+comment1.target=Eleitor(java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Urna
+comment1.params=candidato
+comment1.target=void\ adicionarCandidato(Candidato)
+comment2.params=eleitor
+comment2.target=boolean\ eleitorVotou(Eleitor)
+comment3.params=eleitor\ presidente\ senador\ deputado
+comment3.target=void\ votar(Eleitor,\ int,\ int,\ int)
+comment4.params=numero
+comment4.target=Candidato\ localizarCandidato(int)
+comment5.params=
+comment5.target=void\ quantidadeComputado()
+comment6.params=
+comment6.target=void\ totalDeVotosPorCandidato()
+comment7.params=numero
+comment7.target=void\ totalDeVotosDoCandiato(int)
+comment8.params=candidato
+comment8.target=void\ totalDeVotosDoCandiato(Candidato)
+numComments=9

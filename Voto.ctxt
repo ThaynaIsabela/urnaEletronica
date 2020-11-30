@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Voto
+comment1.params=eleitor\ presidente\ senador\ deputado
+comment1.target=Voto(Eleitor,\ Candidato,\ Candidato,\ Candidato)
+numComments=2
